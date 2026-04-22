@@ -15,13 +15,13 @@
     </a>
   </li>
 
-  <li>📱 <strong>App.jsx:</strong>  
+  <li>📱 <strong>Parte 1:</strong>  
     <a href="https://dev-alencar.github.io/AsimovAcademy/app1.html" target="_blank">
       https://dev-alencar.github.io/AsimovAcademy/app1.html
     </a>
   </li>
 
-  <li>📱 <strong>App2.jsx:</strong>  
+  <li>📱 <strong> Parte 2:</strong>  
     <a href="https://dev-alencar.github.io/AsimovAcademy/app2.html" target="_blank">
       https://dev-alencar.github.io/AsimovAcademy/app2.html
     </a>
