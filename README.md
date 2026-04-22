@@ -6,6 +6,19 @@
 
 ---
 
+## 🌐 Acesse o Projeto
+
+- 🏠 **Home:**  
+  https://dev-alencar.github.io/AsimovAcademy/
+
+- 📱 **App.jsx:**  
+  https://dev-alencar.github.io/AsimovAcademy/app1.html
+
+- 📱 **App2.jsx:**  
+  https://dev-alencar.github.io/AsimovAcademy/app2.html
+
+---
+
 ## 📌 Sobre o Teste
 
 Este desafio técnico é dividido em duas partes principais:
