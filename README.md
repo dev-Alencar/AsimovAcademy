@@ -1,74 +1,74 @@
-# 🚀 Frontend Technical Test
+# 🚀 Teste Técnico Frontend
 
 <p align="center">
-  A modern landing page implementation based on Figma + custom section built from scratch.
+  Implementação de uma landing page moderna baseada em Figma + criação de seção customizada do zero.
 </p>
 
 ---
 
-## 📌 About the Test
+## 📌 Sobre o Teste
 
-This technical challenge is divided into two main parts:
+Este desafio técnico é dividido em duas partes principais:
 
-### 🧩 Part 1 — Figma to Code
-- Conversion of a landing page from Figma into a fully functional web page  
-- Pixel-perfect implementation (fonts, spacing, colors)  
-- Main file: `App.jsx`
-
----
-
-### 🎨 Part 2 — Custom Section
-- Creation of a new landing page section from scratch  
-- Focus on creativity, structure, and UI consistency  
-- Main file: `App2.jsx`
+### 🧩 Parte 1 — Figma para Código
+- Conversão de uma landing page do Figma para uma página web funcional  
+- Implementação fiel ao design (fontes, espaçamentos e cores)  
+- Arquivo principal: `App.jsx`
 
 ---
 
-## 🤖 AI Tools Used
+### 🎨 Parte 2 — Seção Customizada
+- Criação de uma nova seção de landing page do zero  
+- Foco em criatividade, estrutura e consistência visual  
+- Arquivo principal: `App2.jsx`
+
+---
+
+## 🤖 Ferramentas de IA Utilizadas
 
 - **GitHub Copilot**
 
-Chosen for its seamless integration with GitHub Codespaces and its ability to:
-- Speed up development
-- Assist with code generation
-- Simplify deployment workflows
+Escolhido pela sua integração com o GitHub Codespaces e pela capacidade de:
+- Acelerar o desenvolvimento  
+- Auxiliar na geração de código  
+- Facilitar o processo de deploy  
 
 ---
 
-## ⚙️ Where AI Helped the Most
+## ⚙️ Onde a IA Ajudou Mais
 
-AI played an important role throughout the project, especially in:
+A IA teve um papel importante durante todo o projeto, especialmente em:
 
-- 🏗️ Initial project setup and structure  
-- ⚡ Automating repetitive tasks  
-- 🚀 Streamlining deployment and repository updates  
-
----
-
-## 🛠️ Manual Adjustments
-
-Despite the help from AI, several improvements were made manually:
-
-- ✨ Code refinement to remove unnecessary repetition  
-- 🔄 Refactoring for better readability and maintainability  
-- 📱 Responsiveness improvements  
-
-### Why manual adjustments?
-
-AI can sometimes generate:
-- Redundant code  
-- Overly verbose implementations  
-
-Manual optimization ensured cleaner, more efficient, and production-ready code.
+- 🏗️ Estrutura inicial e organização do projeto  
+- ⚡ Automação de tarefas repetitivas  
+- 🚀 Deploy e atualização do repositório  
 
 ---
 
-## 📎 Final Notes
+## 🛠️ Ajustes Manuais
 
-This project combines **AI-assisted development** with **hands-on refinement**, ensuring both speed and quality in the final delivery.
+Mesmo com o suporte da IA, algumas melhorias foram feitas manualmente:
+
+- ✨ Refinamento do código, removendo repetições desnecessárias  
+- 🔄 Refatoração para melhorar legibilidade e manutenção  
+- 📱 Ajustes de responsividade  
+
+### Por que ajustes manuais?
+
+A IA pode gerar:
+- Código redundante  
+- Implementações mais verbosas do que o necessário  
+
+A otimização manual garantiu um código mais limpo, eficiente e próximo de um padrão de produção.
+
+---
+
+## 📎 Considerações Finais
+
+Este projeto combina **desenvolvimento assistido por IA** com **refinamento manual**, garantindo velocidade sem comprometer a qualidade final.
 
 ---
 
 <p align="center">
-  Built with 💻 + 🤖
+  Feito com 💻 + 🤖
 </p>
