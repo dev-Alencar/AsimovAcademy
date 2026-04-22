@@ -8,14 +8,25 @@
 
 ## 🌐 Acesse o Projeto
 
-- 🏠 **Home:**  
-  https://dev-alencar.github.io/AsimovAcademy/
+<ul>
+  <li>🏠 <strong>Home:</strong>  
+    <a href="https://dev-alencar.github.io/AsimovAcademy/" target="_blank">
+      https://dev-alencar.github.io/AsimovAcademy/
+    </a>
+  </li>
 
-- 📱 **App.jsx:**  
-  https://dev-alencar.github.io/AsimovAcademy/app1.html
+  <li>📱 <strong>App.jsx:</strong>  
+    <a href="https://dev-alencar.github.io/AsimovAcademy/app1.html" target="_blank">
+      https://dev-alencar.github.io/AsimovAcademy/app1.html
+    </a>
+  </li>
 
-- 📱 **App2.jsx:**  
-  https://dev-alencar.github.io/AsimovAcademy/app2.html
+  <li>📱 <strong>App2.jsx:</strong>  
+    <a href="https://dev-alencar.github.io/AsimovAcademy/app2.html" target="_blank">
+      https://dev-alencar.github.io/AsimovAcademy/app2.html
+    </a>
+  </li>
+</ul>
 
 ---
 
