@@ -299,10 +299,10 @@ const ServiceIcons = {
 
 const SERVICES = [
   { id: 1, lines: ["Search engine", "optimization"], cardBg: T.bg,    lBg: T.green, lColor: T.black, icon: ServiceIcons.SEO },
-  { id: 2, lines: ["Pay-per-click", "advertising"],  cardBg: T.green, lBg: T.black, lColor: T.white, icon: ServiceIcons.PPC },
+  { id: 2, lines: ["Pay-per-click", "advertising"],  cardBg: T.green, lBg: T.white, lColor: T.black, icon: ServiceIcons.PPC },
   { id: 3, lines: ["Social Media", "Marketing"],     cardBg: T.black, lBg: T.green, lColor: T.black, icon: ServiceIcons.Social },
-  { id: 4, lines: ["Email", "Marketing"],            cardBg: T.bg,    lBg: T.black, lColor: T.white, icon: ServiceIcons.Email },
-  { id: 5, lines: ["Content", "Creation"],           cardBg: T.green, lBg: T.black, lColor: T.white, icon: ServiceIcons.Content },
+  { id: 4, lines: ["Email", "Marketing"],            cardBg: T.bg,    lBg: T.green, lColor: T.black, icon: ServiceIcons.Email },
+  { id: 5, lines: ["Content", "Creation"],           cardBg: T.green, lBg: T.white, lColor: T.black, icon: ServiceIcons.Content },
   { id: 6, lines: ["Analytics and", "Tracking"],     cardBg: T.black, lBg: T.green, lColor: T.black, icon: ServiceIcons.Analytics },
 ];
 
